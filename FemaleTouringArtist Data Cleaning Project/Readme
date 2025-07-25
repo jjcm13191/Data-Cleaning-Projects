@@ -1,0 +1,8 @@
+In this project I clean a data set containing Female Muscians and their Tours using python.
+The objective was to remove duplicants, remove or fill missing values, split data when needed, make sure columns matched if neccesary, and every column was using the correct data type.
+#The years column was split into start year and end year
+#The total years column was added and filled
+#Columns with too many irreplaceable missing values were removed
+#No duplicates found
+#All columns have the correct data type
+#Nothing to match
